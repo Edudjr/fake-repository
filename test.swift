@@ -1,4 +1,4 @@
 struct Person {
-    var nam: String
-    var age: String
+    var naming: String
+    var aging: String
 }
